@@ -1,3 +1,5 @@
+Application reads data from rest-api, data can be ranked with stars.
+
 # nvu
 
 > a vue.js project
