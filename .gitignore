@@ -1,0 +1,8 @@
+node_modules
+
+footer.php
+header.php
+functions.php
+index.php
+style.css
+package-lock.json
